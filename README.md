@@ -14,3 +14,7 @@
 
   First standard resnet will run and then the decomposed final layer with
   indices corresponding to `resnet20_cifar-10_indices.json`.
+
+# Influential Indices Extraction Code
+
+- **Will add soon**. Been a bit busy.
