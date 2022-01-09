@@ -1,0 +1,4 @@
+torch==1.7.1
+common-pyutil==0.8.0
+imgaug==0.4.0
+torchvision==0.8.2
