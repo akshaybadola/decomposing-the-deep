@@ -1,4 +1,7 @@
 torch==1.7.1
-common-pyutil==0.8.0
+common-pyutil==0.8.5
 imgaug==0.4.0
 torchvision==0.8.2
+pandas==1.3.3
+scikit-learn==1.0.1
+tabulate==0.8.9
